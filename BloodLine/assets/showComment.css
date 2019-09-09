@@ -1,0 +1,49 @@
+#b {
+    quotes:  "“" "„"; 
+   }
+div.solid{
+    width:500px;
+    margin: auto;
+    border: 0px solid crimson;
+    box-shadow: 0px 0px 3px 3px #FF0000;
+ }
+div.sol{
+    width:500px;
+    margin: auto;
+    text-align: right;
+    border: 1px solid #d6d4d4;
+    padding:15px;
+    border-radius: 10px;
+    box-shadow:0 6px 18px 0 #d6d4d4;
+ }
+div.dp{
+     border: 1px solid #ddd; 
+    border-radius: 4px; 
+    text-align: left;
+    padding: 5px; 
+    width: 75px;
+}
+p.comment-text{
+     font: Italic;
+    text-decoration-color: deeppink;
+text-align: center;
+    height: auto;
+    width: auto;
+}
+p.comment-name{
+     font: Bold;
+    text-decoration-color: deeppink;
+text-align-last: right;
+    height: auto;
+    width: auto;
+}
+div.bodybac{
+    align-items:  center;
+    white-space: pre-line;
+display: inline-block;
+}
+header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
